@@ -16,10 +16,10 @@
 //                                                                              //
 // ---------------------------------------------------------------------------- //
 
-using NUnit.Framework;
-using Tuvi.App.IncrementalLoading;
-using Tuvi.App.ViewModels;
 using System.ComponentModel;
+using Eppie.App.UI.IncrementalLoading;
+using Eppie.App.ViewModels;
+using NUnit.Framework;
 
 #if WINDOWS_UWP
 using Windows.UI.Xaml.Data;

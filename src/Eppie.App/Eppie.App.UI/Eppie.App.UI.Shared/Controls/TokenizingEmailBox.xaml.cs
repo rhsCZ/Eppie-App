@@ -23,8 +23,8 @@ using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Windows.Input;
 using CommunityToolkit.WinUI.Controls;
-using Tuvi.App.Converters;
-using Tuvi.App.ViewModels;
+using Eppie.App.UI.Converters;
+using Eppie.App.ViewModels;
 using Tuvi.Core.Entities;
 
 #if WINDOWS_UWP

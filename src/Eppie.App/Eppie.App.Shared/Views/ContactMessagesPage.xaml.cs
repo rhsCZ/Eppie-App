@@ -16,8 +16,8 @@
 //                                                                              //
 // ---------------------------------------------------------------------------- //
 
-using Tuvi.App.IncrementalLoading;
-using Tuvi.App.ViewModels;
+using Eppie.App.UI.IncrementalLoading;
+using Eppie.App.ViewModels;
 
 #if WINDOWS_UWP
 using Windows.UI.Xaml.Navigation;

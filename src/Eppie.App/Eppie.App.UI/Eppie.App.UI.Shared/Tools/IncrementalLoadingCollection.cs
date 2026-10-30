@@ -23,7 +23,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using Tuvi.App.ViewModels;
+using Eppie.App.ViewModels;
 using Windows.Foundation;
 
 #if WINDOWS_UWP
@@ -32,7 +32,7 @@ using Windows.UI.Xaml.Data;
 using Microsoft.UI.Xaml.Data;
 #endif
 
-namespace Tuvi.App.IncrementalLoading
+namespace Eppie.App.UI.IncrementalLoading
 {
     /// <summary>
     /// This class represents an <see cref="ObservableCollection{IType}"/> whose items can be loaded incrementally.
